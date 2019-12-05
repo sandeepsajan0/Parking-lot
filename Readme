@@ -1,0 +1,15 @@
+Assume Python 3 has already installed.
+
+To execute parking lot's solution source code:
+
+    1. Interactive mode
+
+    `./parking_lot`
+
+    2. File input mode
+
+    `./parking_lot "file_name"`
+
+To run tests:
+
+    python3 tests.py
